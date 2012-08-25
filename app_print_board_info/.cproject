@@ -50,92 +50,62 @@ targetID="org.eclipse.cdt.build.MakeTargetBuilder">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                                 <inputType id = "com.xmos.cdt.xc.compiler.input.68049407" name="XC Sources" superClass="com.xmos.cdt.xc.compiler.input" />
                                 <option id = "gnu.c.compiler.option.include.paths.79393257" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.xc.compiler.base.79743926" name="com.xmos.cdt.xc.compiler.base" superClass="com.xmos.cdt.xc.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.16577454" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.68355492" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.c.compiler.base.30756771" name="com.xmos.cdt.c.compiler.base" superClass="com.xmos.cdt.c.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.8966611" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.33118442" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.cpp.compiler.base.13503837" name="com.xmos.cdt.cpp.compiler.base" superClass="com.xmos.cdt.cpp.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.99693426" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.10418521" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.core.assembler.base.51794786" name="com.xmos.cdt.core.assembler.base" superClass="com.xmos.cdt.core.assembler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.82058394" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.62846541" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                             </tool>
@@ -279,92 +249,62 @@ targetID="org.eclipse.cdt.build.MakeTargetBuilder">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                                 <inputType id = "com.xmos.cdt.xc.compiler.input.64929278" name="XC Sources" superClass="com.xmos.cdt.xc.compiler.input" />
                                 <option id = "gnu.c.compiler.option.include.paths.8809228" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.xc.compiler.base.80553787" name="com.xmos.cdt.xc.compiler.base" superClass="com.xmos.cdt.xc.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.65156998" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.52863341" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.c.compiler.base.33741510" name="com.xmos.cdt.c.compiler.base" superClass="com.xmos.cdt.c.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.99267503" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.79247662" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.cpp.compiler.base.30864671" name="com.xmos.cdt.cpp.compiler.base" superClass="com.xmos.cdt.cpp.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.1383057" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.86011761" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.core.assembler.base.23436635" name="com.xmos.cdt.core.assembler.base" superClass="com.xmos.cdt.core.assembler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.27263294" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.17373572" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/doc}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/_build/text}&quot;' />
 
                                 </option>
                             </tool>
