@@ -1,5 +1,5 @@
-sc_otp
-.......
+OTP Functions
+.............
 
 :Stable release: unreleased
 

@@ -16,15 +16,14 @@ USED_MODULES = module_otp_board_info
 # XCC_XC_FLAGS, XCC_C_FLAGS, XCC_ASM_FLAGS, XCC_CPP_FLAGS
 # If the variable XCC_MAP_FLAGS is set it overrides the flags passed to
 # xcc for the final link (mapping) stage.
-ifeq "$(CONFIG)" "Debug"
-XCC_FLAGS = -g -O0
-else
-XCC_FLAGS = -g -O2
-endif
+XCC_FLAGS_Debug = -g -O0
+XCC_FLAGS_Release = -g -O2
 
 # The VERBOSE variable, if set to 1, enables verbose output from the make
 # system.
 VERBOSE = 0
+
+XCC_FLAGS = $(XCC_FLAGS_Release)
 
 #=============================================================================
 # The following part of the Makefile includes the common build infrastructure

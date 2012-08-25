@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<xpd>
+    <components>
+        <component description = "A simple example that reads a serial number and MAC address from otp." scope = "Early Development" path = "app_print_board_info" type = "demoCode" id = "app_print_board_info" name = "OTP Reading Library Example">
+            <keyword>otp</keyword>
+        </component>
+        <component description = "Module to read MAC addresses / serial numbers from OTP memory." scope = "Early Development" path = "module_otp_board_info" type = "demoCode" id = "module_otp_board_info" name = "OTP Reading Library">
+            <keyword>otp</keyword>
+        </component>
+    </components>
+    <description>Functions to access the OTP memory of an XCore.</description>
+    <location>git@github.com:xcore/sc_otp</location>
+    <name>sc_otp</name>
+    <maintainer>rlsosborne</maintainer>
+    <vendor>XMOS</vendor>
+    <xpd_version>1.0</xpd_version>
+</xpd>
