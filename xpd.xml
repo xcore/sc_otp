@@ -16,4 +16,5 @@
     <subpartnumber>XM-001826-SM</subpartnumber>
     <vendor>XMOS</vendor>
     <xpd_version>1.0</xpd_version>
+    <docdir>module_otp_board_info/doc</docdir>
 </xpd>
