@@ -12,6 +12,8 @@
     <location>git@github.com:xcore/sc_otp</location>
     <name>sc_otp</name>
     <maintainer>rlsosborne</maintainer>
+    <partnumber>XM-001825-DH</partnumber>
+    <subpartnumber>XM-001826-SM</subpartnumber>
     <vendor>XMOS</vendor>
     <xpd_version>1.0</xpd_version>
 </xpd>
