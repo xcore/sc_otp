@@ -1,11 +1,11 @@
 OTP Functions
 .............
 
-:Stable release: unreleased
-
-:Maintainer: https://github.com/rlsosborne
-
+:Latest release: 1.0.0beta0
+:Maintainer: rlsosborne
 :Description: Functions to access the OTP memory of an XCore.
+
+
 
 
 Key Features
@@ -22,3 +22,9 @@ Support
 =======
 
 Submit issues in the issue tab.
+
+Required software (dependencies)
+================================
+
+  * None
+
