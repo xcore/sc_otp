@@ -1,10 +1,11 @@
 <?xml version="1.0" ?>
 <xpd>
     <components>
-        <component description = "A simple example that reads a serial number and MAC address from otp." scope = "Early Development" path = "app_print_board_info" type = "demoCode" id = "app_print_board_info" name = "OTP Reading Library Example">
+        <component description = "A simple example that reads a serial number and MAC address from otp." type = "demoCode" scope = "Early Development" path = "app_print_board_info" local = "false" id = "app_print_board_info" name = "OTP Reading Library Example">
+            <componentDependency>module_otp_board_info</componentDependency>
             <keyword>otp</keyword>
         </component>
-        <component description = "Module to read MAC addresses / serial numbers from OTP memory." scope = "Early Development" path = "module_otp_board_info" type = "demoCode" id = "module_otp_board_info" name = "OTP Reading Library">
+        <component description = "Module to read MAC addresses / serial numbers from OTP memory." type = "demoCode" scope = "Early Development" path = "module_otp_board_info" local = "false" id = "module_otp_board_info" name = "OTP Reading Library">
             <keyword>otp</keyword>
         </component>
     </components>
@@ -16,5 +17,6 @@
     <partnumber>XM-001825-DH</partnumber>
     <subpartnumber>XM-001826-SM</subpartnumber>
     <vendor>XMOS</vendor>
+    <xcore_repo>sc_otp</xcore_repo>
     <xpd_version>1.0</xpd_version>
 </xpd>
