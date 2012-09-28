@@ -1,21 +1,13 @@
 <?xml version="1.0" ?>
 <xpd>
-    <components>
-        <component description = "A simple example that reads a serial number and MAC address from otp." type = "demoCode" scope = "Early Development" path = "app_print_board_info" local = "false" id = "app_print_board_info" name = "OTP Reading Library Example">
-            <componentDependency>module_otp_board_info</componentDependency>
-            <keyword>otp</keyword>
-        </component>
-        <component description = "Module to read MAC addresses / serial numbers from OTP memory." type = "demoCode" scope = "Early Development" path = "module_otp_board_info" local = "false" id = "module_otp_board_info" name = "OTP Reading Library">
-            <keyword>otp</keyword>
-        </component>
-    </components>
+    <components></components>
     <description>Functions to access the OTP memory of an XCore.</description>
     <docdir>module_otp_board_info/doc</docdir>
     <location>git@github.com:xcore/sc_otp</location>
     <name>sc_otp</name>
     <maintainer>rlsosborne</maintainer>
     <partnumber>XM-001825-DH</partnumber>
-    <release parenthash = "64cf4fcd4f1d2dbfa925d1e1e4eb6cce48584d30" version = "1.0.0beta0"></release>
+    <release parenthash = "64cf4fcd4f1d2dbfa925d1e1e4eb6cce48584d30" version = "1.0.0beta0" githash = "f859001b0882223ed8f836499a396f26f6acedbd"></release>
     <subpartnumber>XM-001826-SM</subpartnumber>
     <vendor>XMOS</vendor>
     <xcore_repo>sc_otp</xcore_repo>
