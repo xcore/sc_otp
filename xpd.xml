@@ -1,6 +1,10 @@
 <?xml version="1.0" ?>
 <xpd>
-    <components></components>
+    <components>
+        <component name = "OTP Reading Library" type = "component" buildresults_path = "module_otp_board_info/.module_otp_board_info.buildinfo" scope = "Early Development" path = "module_otp_board_info" metainfo_path = "module_otp_board_info/module_otp_board_info.metainfo" local = "false" id = "module_otp_board_info" description = "Module to read MAC addresses / serial numbers from OTP memory.">
+            <keyword>otp</keyword>
+        </component>
+    </components>
     <description>Functions to access the OTP memory of an XCore.</description>
     <docdir>module_otp_board_info/doc</docdir>
     <location>git@github.com:xcore/sc_otp</location>
