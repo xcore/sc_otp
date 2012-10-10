@@ -1,6 +1,10 @@
 <?xml version="1.0" ?>
 <xpd>
     <components>
+        <component description = "A simple example that reads a serial number and MAC address from otp." type = "demoCode" scope = "Example" path = "app_print_board_info" local = "false" id = "app_print_board_info" name = "OTP Reading Library Example">
+            <componentDependency>module_otp_board_info</componentDependency>
+            <keyword>otp</keyword>
+        </component>
         <component name = "OTP Reading Library" type = "component" buildresults_path = "module_otp_board_info/.module_otp_board_info.buildinfo" scope = "Early Development" path = "module_otp_board_info" metainfo_path = "module_otp_board_info/module_otp_board_info.metainfo" local = "false" id = "module_otp_board_info" description = "Module to read MAC addresses / serial numbers from OTP memory.">
             <keyword>otp</keyword>
         </component>

@@ -1,7 +1,7 @@
 OTP Reading Library Example
 ===========================
 
-:scope: Early Development
+:scope: Example
 :description: A simple example that reads a serial number and MAC address from otp.
 :keywords: otp
 
