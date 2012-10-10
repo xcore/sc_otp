@@ -4,7 +4,7 @@
 // LICENSE.txt and at <http://github.xcore.com/>
 
 /**
- * Functions for reading board information (e.g. serial number, MAC address)
+ * Functions for reading board information (serial number, MAC address).
  * from the OTP memory of an XCore. This information can be written to the
  * device using XBURN.
  */
