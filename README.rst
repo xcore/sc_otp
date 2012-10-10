@@ -6,8 +6,6 @@ OTP Functions
 :Description: Functions to access the OTP memory of an XCore.
 
 
-
-
 Key Features
 ============
 
