@@ -161,82 +161,342 @@ targetID="org.eclipse.cdt.build.MakeTargetBuilder">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <inputType id = "com.xmos.cdt.xc.compiler.input.95152613" name="XC Sources" superClass="com.xmos.cdt.xc.compiler.input" />
                                 <option id = "gnu.c.compiler.option.include.paths.44735145" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.xc.compiler.base.59480648" name="com.xmos.cdt.xc.compiler.base" superClass="com.xmos.cdt.xc.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.58000847" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.73398906" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.c.compiler.base.23721984" name="com.xmos.cdt.c.compiler.base" superClass="com.xmos.cdt.c.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.10661093" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.59243603" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.cpp.compiler.base.84926809" name="com.xmos.cdt.cpp.compiler.base" superClass="com.xmos.cdt.cpp.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.11846294" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.85735407" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.core.assembler.base.71797243" name="com.xmos.cdt.core.assembler.base" superClass="com.xmos.cdt.core.assembler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.50730623" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.23069114" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
@@ -495,82 +755,342 @@ targetID="org.eclipse.cdt.build.MakeTargetBuilder">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <inputType id = "com.xmos.cdt.xc.compiler.input.63240436" name="XC Sources" superClass="com.xmos.cdt.xc.compiler.input" />
                                 <option id = "gnu.c.compiler.option.include.paths.21585143" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.xc.compiler.base.34044521" name="com.xmos.cdt.xc.compiler.base" superClass="com.xmos.cdt.xc.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.84694508" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.63193485" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.c.compiler.base.62505154" name="com.xmos.cdt.c.compiler.base" superClass="com.xmos.cdt.c.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.74936270" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.16273936" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.cpp.compiler.base.56002403" name="com.xmos.cdt.cpp.compiler.base" superClass="com.xmos.cdt.cpp.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.10328296" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.28254101" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.core.assembler.base.85140924" name="com.xmos.cdt.core.assembler.base" superClass="com.xmos.cdt.core.assembler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.11332882" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.98520643" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
@@ -829,82 +1349,342 @@ targetID="org.eclipse.cdt.build.MakeTargetBuilder">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/gcc&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include/c++/4.2.1/xcore-xmos-elf&quot;' />
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <inputType id = "com.xmos.cdt.xc.compiler.input.54365892" name="XC Sources" superClass="com.xmos.cdt.xc.compiler.input" />
                                 <option id = "gnu.c.compiler.option.include.paths.74936469" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.xc.compiler.base.88265878" name="com.xmos.cdt.xc.compiler.base" superClass="com.xmos.cdt.xc.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.57254603" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.4570178" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.c.compiler.base.72341592" name="com.xmos.cdt.c.compiler.base" superClass="com.xmos.cdt.c.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.23268712" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.32289309" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.cpp.compiler.base.10539751" name="com.xmos.cdt.cpp.compiler.base" superClass="com.xmos.cdt.cpp.compiler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.74730518" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.6230812" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
                             <tool id = "com.xmos.cdt.core.assembler.base.75088875" name="com.xmos.cdt.core.assembler.base" superClass="com.xmos.cdt.core.assembler.base">
                                 <option id = "gnu.c.compiler.option.include.paths.50052842" valueType="includePath" superClass="gnu.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                                 <option id = "com.xmos.c.compiler.option.include.paths.36233592" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
-                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
-<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build}&quot;' />
 <listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/0a}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/tags}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/module_otp_board_info/src}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/pack}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/info}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes/origin}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/_static/images}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/hooks}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/logs/refs/heads}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/refs/remotes}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/branches}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git/objects/f0}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/xdehtml/.doctrees}&quot;' />
+<listOptionValue builtIn="false" value='&quot;${workspace_loc:/app_print_board_info/_build/.support/docs_xref/.git}&quot;' />
 
                                 </option>
                             </tool>
