@@ -15,8 +15,9 @@
     <name>sc_otp</name>
     <maintainer>rlsosborne</maintainer>
     <partnumber>XM-001825-DH</partnumber>
-    <release parenthash = "5d416b0d4423e3f426f95efd1a3071403c65747e" version = "1.0.0alpha0"></release>
+    <release parenthash = "5d416b0d4423e3f426f95efd1a3071403c65747e" version = "1.0.0alpha0" githash = "c58cd84295fdbdd72a970417bb4cc54342a9d71c"></release>
     <release parenthash = "64cf4fcd4f1d2dbfa925d1e1e4eb6cce48584d30" version = "1.0.0beta0" githash = "f859001b0882223ed8f836499a396f26f6acedbd"></release>
+    <release parenthash = "c58cd84295fdbdd72a970417bb4cc54342a9d71c" version = "1.0.0rc0"></release>
     <subpartnumber>XM-001826-SM</subpartnumber>
     <vendor>XMOS</vendor>
     <xcore_repo>sc_otp</xcore_repo>

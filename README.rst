@@ -1,7 +1,7 @@
 OTP Functions
 .............
 
-:Latest release: 1.0.0beta0
+:Latest release: 1.0.0rc0
 :Maintainer: rlsosborne
 :Description: Functions to access the OTP memory of an XCore.
 
